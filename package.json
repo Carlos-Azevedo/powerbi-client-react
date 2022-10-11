@@ -30,7 +30,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"lodash.isequal": "^4.5.0",
-    		"powerbi-client": "https://github.com/Carlos-Azevedo/PowerBI-JavaScript.git#95835846a30690bb0c7958a36430cfadb9c5f7a7",
+		"powerbi-client": "https://github.com/Carlos-Azevedo/PowerBI-JavaScript.git#95835846a30690bb0c7958a36430cfadb9c5f7a7"
 	},
 	"peerDependencies": {
 		"react": ">= 16"
